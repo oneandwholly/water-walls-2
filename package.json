@@ -1,0 +1,14 @@
+{
+  "name": "water-walls-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/oneandwholly/water-walls-2.git",
+  "author": "Jon Huh <oneandwholly@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
