@@ -1,0 +1,27 @@
+#board {
+    display: flex;
+}
+
+.column {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.cell {
+    width: 20px;
+    height: 20px;
+    border: .5px solid #eee;
+}
+
+.cell.wall {
+    background-color: #bbb;
+}
+
+.cell.water {
+    background-color: aqua;
+}
+
+.cell.black {
+    background-color: black;
+}
+
